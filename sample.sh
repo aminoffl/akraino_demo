@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "this is for demo"
+echo "this is for demo.."
